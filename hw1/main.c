@@ -130,4 +130,8 @@ int main() {
     print_last(row_num); //fprintf4
     fclose;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 02c0c885446d40833221a77ce1fee92f0c37beda
