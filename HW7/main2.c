@@ -10,7 +10,6 @@ int main() {
         if ((int) (Pi*100000) == 314159)            
             break;    
     }    
-    printf("x=%d, Pi=%.5f\n", 2*i-1, 
- (double) (int) (Pi*100000)/100000);    
+    printf("x=%d, Pi=%.5f\n", 2*i-1,  (double) (int) (Pi*100000)/100000);    
     return 0;
 }
